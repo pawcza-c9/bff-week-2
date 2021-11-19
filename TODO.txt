@@ -1,0 +1,4 @@
+Resources: 
+- Create a sphere
+- Add a texture to sphere (use public/earth.jpeg)
+- Add animation to sphere
