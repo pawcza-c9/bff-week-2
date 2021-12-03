@@ -1,22 +1,18 @@
-import * as React from "react";
+import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 
-import Playground from "./Playground";
-// import Lights from "./Lights";
-// import Blob from "./Blob";
-// import Effects from "./Effects";
-// import SimpleBlob from "./SimpleBlob";
-// import WobblyWall from "./WobblyWall";
+import Model from "./Model";
+import Lights from "./examples/Lights";
 
 export default function CanvasBase() {
   return (
     <Canvas shadows camera={{ position: [0, 0, 10] }}>
-      <Playground />
-      {/* <Effects />
-            <Lights />
-            <Blob />
-            <SimpleBlob />
-            <WobblyWall /> */}
+      <directionalLight position={[10, 10, 5]} intensity={1} />
+      <directionalLight position={[-10, -10, -5]} intensity={1} />
+      <Suspense fallback={null}>
+        <Model />
+        <Lights />
+      </Suspense>
     </Canvas>
   );
 }
