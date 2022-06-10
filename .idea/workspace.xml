@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1aca1409-6259-4032-9090-7178594db2f3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Canvas.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Golf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Golf.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +48,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/models" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
@@ -73,7 +79,9 @@
       <workItem from="1646394853585" duration="672000" />
       <workItem from="1646832686883" duration="8000" />
       <workItem from="1648811006054" duration="2037000" />
-      <workItem from="1651219940790" duration="14000" />
+      <workItem from="1651219940790" duration="42000" />
+      <workItem from="1651220007837" duration="270000" />
+      <workItem from="1653649488253" duration="3150000" />
     </task>
     <servers />
   </component>
