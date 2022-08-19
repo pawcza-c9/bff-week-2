@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aca1409-6259-4032-9090-7178594db2f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/models/Color_Texture_FREE CAR 2021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/free_car.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/models/free_car_001.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FreeCar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/wheel.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/wheel/Plastic_Leather_A_Bump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/wheel/llanta.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/wheel/wheel.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/wheel/wheel.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Wheel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Canvas.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Golf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Golf.js" afterDir="false" />
     </list>
@@ -91,7 +94,7 @@
       <workItem from="1651219940790" duration="42000" />
       <workItem from="1651220007837" duration="270000" />
       <workItem from="1653649488253" duration="6699000" />
-      <workItem from="1660906784436" duration="2990000" />
+      <workItem from="1660906784436" duration="3249000" />
     </task>
     <servers />
   </component>
