@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1aca1409-6259-4032-9090-7178594db2f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/models/Color_Texture_FREE CAR 2021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/free_car.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/free_car_001.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FreeCar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Canvas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Canvas.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Golf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Golf.js" afterDir="false" />
@@ -30,9 +34,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/components/Canvas.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/next.config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/ObjToPrimitive.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/components/Model.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/Golf.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pages/index.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/pages/_app.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/components/examples/Lights.js" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/components/Playground.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -46,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -58,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/public/models" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -81,7 +90,8 @@
       <workItem from="1648811006054" duration="2037000" />
       <workItem from="1651219940790" duration="42000" />
       <workItem from="1651220007837" duration="270000" />
-      <workItem from="1653649488253" duration="3150000" />
+      <workItem from="1653649488253" duration="6699000" />
+      <workItem from="1660906784436" duration="2990000" />
     </task>
     <servers />
   </component>
